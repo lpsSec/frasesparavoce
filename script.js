@@ -21,7 +21,7 @@ var frases = ["Você é muito especial para mim.",
               "Nós vamos sempre estar juntos não importa a situação.",
               "Sem você eu não teria nada.",
               "As vezes parece que nos conhecemos a anos.",
-              "Me longe te sinto tão perto."];
+              "Mesmo longe te sinto tão perto."];
 
 var min = 0;
 var max = frases.length - 1;
