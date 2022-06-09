@@ -113,7 +113,7 @@ document.ontouchmove = function(e) {
 
 var before = Date.now();
 var id = setInterval(frame, 5);
-var gr = setInterval(check, 100);
+var gr = setInterval(check, 50);
 
 function frame()
 {
